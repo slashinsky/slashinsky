@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @slashinsky
-- 👀 I’m interested in learning to code, accessibility, react
+- 👀 I’m interested in learning react, accessibility, and "doing things the hard way"
 - 🌱 I’m currently learning sql basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at sklashinsky.com or on @sarahlashinsky on Twitter or Instagram
 
 <!---
 slashinsky/slashinsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
