@@ -4,7 +4,7 @@ I’m a product designer & illustrator based in Atlanta, GA. I am interested in 
 
 I hand-coded my [portfolio](https://sarahlashinsky.com/) with the help of Notion for my case studies!.
 
-📫 You can reach me at sklashinsky.com or on @sarahlashinsky on Twitter or Instagram
+📫 You can reach me at sklashinsky@gmail.com or on [Twitter](https://twitter.com/SarahLashinsky) or [Instagram](https://www.instagram.com/sarahlashinsky/).
 
 <img src="https://sarahlashinsky.com/images/headshot.jpg" alt="headshot" width="600"/>
 
