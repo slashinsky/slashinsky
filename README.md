@@ -4,7 +4,7 @@ I’m a product designer & illustrator based in Atlanta, GA. I am interested in 
 
 Like every good designer, I have a [portfolio](https://sarahlashinsky.com/) that "needs updating"!
 
-## Also
+### Also
 * Risograph enthusiast
 * Chorus nerd & web dev for [Atlanta Women's Chorus](https://www.voicesofnote.org/atlanta-womens-chorus)
 * Safe streets advocate
