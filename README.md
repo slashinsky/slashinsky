@@ -5,7 +5,8 @@ I’m a product designer & illustrator based in Atlanta, GA. I am interested in 
 ### Also
 * Risograph enthusiast
 * Chorus nerd & web dev for [Atlanta Women's Chorus](https://www.voicesofnote.org/atlanta-womens-chorus)
-* Safe streets advocate
+* Safe streets advocate with [Atlanta Families for Safe Streets](https://www.letspropelatl.org/atlantafss)
+* Native garden enjoyer
 
 📫 You can reach me at sklashinsky@gmail.com or check my [portfolio](https://sarahlashinsky.com/).
 
