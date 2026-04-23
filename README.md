@@ -11,7 +11,7 @@ I’m a product designer & illustrator based in Atlanta, GA. I am interested in 
 📫 You can reach me at sklashinsky@gmail.com or check my [portfolio](https://sarahlashinsky.com/).
 
 ### Archive
-An archive of the state of my portfolio over the years! Inspired by [Lynn Fisher](https://lynnandtonic.com/archive/)!
+An archive of the state of my portfolio over the years. Inspired by [Lynn Fisher](https://lynnandtonic.com/archive/).
 * [2021](https://saraharchive2021.netlify.app/)
 
 <img src="https://images.squarespace-cdn.com/content/v1/671917ee2ac0f92a90b9d47a/9c47e0fd-a1b6-4c53-b759-294a10ffe962/headshot2024.jpg" alt="headshot" width="600"/>
