@@ -6,7 +6,7 @@ I build small apps, lightweight apps that help me automate or add whimsy to my w
 
 ### Also
 * Risograph enthusiast
-* Chorus nerd & web dev for [Atlanta Women's Chorus](https://www.voicesofnote.org/atlanta-womens-chorus)
+* Chorus nerd & web dev for [Atlanta Women's Chorus](https://www.voicesofnote.org/atlanta-womens-chorus) & [Atlanta Gay Men's Chorus](https://www.voicesofnote.org/atlanta-gay-mens-chorus)
 * Safe streets advocate with [Atlanta Families for Safe Streets](https://www.letspropelatl.org/atlantafss)
 * Native garden enjoyer
 
