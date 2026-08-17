@@ -2,6 +2,8 @@
 
 I’m a product designer & illustrator based in Atlanta, GA. I am interested in accessibility, data viz, and learning through doing. Aside from work, I love to ride my bike. I am a passionate transit advocate, a [map lover](https://slashinsky.github.io/) and a curious soul.
 
+I build small apps, lightweight apps that help me automate or add whimsy to my workflows. Need to compress a handful of full-res photos? Try [Squish](https://github.com/slashinsky/squish).
+
 ### Also
 * Risograph enthusiast
 * Chorus nerd & web dev for [Atlanta Women's Chorus](https://www.voicesofnote.org/atlanta-womens-chorus)
